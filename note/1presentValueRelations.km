@@ -1,0 +1,137 @@
+{
+    "root": {
+        "data": {
+            "id": "cjt21jpc1280",
+            "created": 1651878458686,
+            "text": "cashFlows and assets"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cjt22darsjc0",
+                    "created": 1651878523109,
+                    "text": "cashflows and assets"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjt26ql23tc0",
+                            "created": 1651878865486,
+                            "text": "What is an asset",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjt26vyr9000",
+                                    "created": 1651878877198,
+                                    "text": "Business entity"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjt27337fj40",
+                                    "created": 1651878892704,
+                                    "text": "Property,plant,and equipment"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjt27a7axug0",
+                                    "created": 1651878908190,
+                                    "text": "Patents"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjt27fb1qsw0",
+                                    "created": 1651878919300,
+                                    "text": "Stocks,bounds,options"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjt27lzip200",
+                                    "created": 1651878933840,
+                                    "text": "knowledge,reputation,opportunities"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjt2a594zmw0",
+                            "created": 1651879132509,
+                            "text": "from a bussiness Perspective,an asset is a sequence of cashflows"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cjt22dsv8mw0",
+                    "created": 1651878524203,
+                    "text": "the present value operator"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cjt24x9vfw00",
+                    "created": 1651878723319,
+                    "text": "The time value of money"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cjt251dxqj40",
+                    "created": 1651878732271,
+                    "text": "Special Cashflows:the perpetuity"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cjt25cujj2w0",
+                    "created": 1651878757220,
+                    "text": "Special Cashflows:the annuity"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cjt25m8odag0",
+                    "created": 1651878777666,
+                    "text": "compounding"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cjt25rp46n40",
+                    "created": 1651878789544,
+                    "text": "Inflation"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cjt25upuc6o0",
+                    "created": 1651878796118,
+                    "text": "Extensions and Qualifications"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "classic",
+    "version": "1.4.43"
+}

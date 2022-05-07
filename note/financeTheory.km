@@ -1,0 +1,737 @@
+{
+    "root": {
+        "data": {
+            "id": "cjou1x9wb3s0",
+            "created": 1651449679522,
+            "text": "finance theory",
+            "expandState": "expand"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cjou33ic4ig0",
+                    "created": 1651449771457,
+                    "text": "motivation",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjou3z4v1cw0",
+                            "created": 1651449840299,
+                            "text": "mathematics+$$$ = finance",
+                            "expandState": "expand"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cjou34ovk200",
+                    "created": 1651449774029,
+                    "text": "Dramatis Personae",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjppu2lgtl40",
+                            "created": 1651539339709,
+                            "text": "topic",
+                            "expandState": "expand"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cjou360tlqg0",
+                    "created": 1651449776928,
+                    "text": "framework for financial analysis",
+                    "layout_mind_offset": {
+                        "x": -36.0000005364418,
+                        "y": 0
+                    },
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjpqgg4288g0",
+                            "created": 1651541093143,
+                            "text": "Accounting",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjpqgs1tvnk0",
+                                    "created": 1651541119129,
+                                    "text": "the language of finance ",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjpqixjsb9c0",
+                                    "created": 1651541287827,
+                                    "text": "Vocabulary,syntax,grammar,prose and poetry",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjpqjkoszhs0",
+                                    "created": 1651541338197,
+                                    "text": "Language frames and circumscribes the analysis",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjpqjxuxfko0",
+                                    "created": 1651541366865,
+                                    "text": "Basic concepts should be familiar to you by now",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjpqkc2gpm00",
+                                    "created": 1651541397796,
+                                    "text": "\"Stock\"(not equities) vs \"flow\" variables",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjpqkvcle740",
+                            "created": 1651541439767,
+                            "text": "Balance sheet and income statement Perspectives",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjpqli8plpc0",
+                                    "created": 1651541489598,
+                                    "text": "Balance sheet: snapshot of financial status quo(stock)",
+                                    "layout_right_offset": {
+                                        "x": -94.00000140070915,
+                                        "y": 0
+                                    },
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cjrbz5vn9k80",
+                                            "created": 1651703363050,
+                                            "text": "balance sheet",
+                                            "note": "assets      |Liabilities\n------------|---\nCash        |Equity\nCapital     |Debt\nIntangebles|\nValue      |Value",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cjrc3vaekwg0",
+                                            "created": 1651703731819,
+                                            "text": "Income Statement",
+                                            "note": "Sources of Funds = Uses of Funds\n\\delta S + ",
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cjpqlx7dy2g0",
+                                    "created": 1651541522170,
+                                    "text": "income statement:rate of change of the status quo(flow)",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjpqmgn8rts0",
+                                    "created": 1651541564488,
+                                    "text": "financial status<=>balance sheet",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjrbuxr2hiw0",
+                                    "created": 1651703031902,
+                                    "text": "financial decisions<=>income statement",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjrbvl9g8000",
+                                    "created": 1651703083080,
+                                    "text": "What about the \"rate of change of the rate of change\"",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjrc6hyylq80",
+                            "created": 1651703937921,
+                            "text": "corporate finance Decisions",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjrc7q5r8fc0",
+                                    "created": 1651704034110,
+                                    "text": "cash raised from investors(selling financial assets)",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjrc88fo34o0",
+                                    "created": 1651704073892,
+                                    "text": "Cash invested in real assest(tangible and intangible)",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjrc8s140d40",
+                                    "created": 1651704116547,
+                                    "text": "Cash generated by operations",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjrc8ztewr40",
+                                    "created": 1651704133496,
+                                    "text": "Cash reinvested",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjrc95u34u80",
+                                    "created": 1651704146597,
+                                    "text": "Cash returned to investors(debt payments,dividends,etc.)",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjrc9maxfq00",
+                            "created": 1651704182444,
+                            "text": "personal Financial Decisions",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjrc9ux317k0",
+                                    "created": 1651704201198,
+                                    "text": "institutions(selling financial assets)",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjrcahaysw80",
+                                    "created": 1651704249927,
+                                    "text": "Cash invested in real assets(tangible and intangible)",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjrcarugyao0",
+                                    "created": 1651704272874,
+                                    "text": "Cash generated by labor supply",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjrcb9ucnbs0",
+                                    "created": 1651704312049,
+                                    "text": "Cash consumed and reinvested in real assets",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjrcbi177og0",
+                                    "created": 1651704329877,
+                                    "text": "Cash invested in financial assets",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cjou37qoo200",
+                    "created": 1651449780669,
+                    "text": "importance of time and risk",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjrccxuwwrk0",
+                            "created": 1651704442690,
+                            "text": "Time",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjrcczzuttk0",
+                                    "created": 1651704447342,
+                                    "text": "Cashflows now are different from cashflows later",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjrcdbyfcm80",
+                                    "created": 1651704473377,
+                                    "text": "Time flows in only one direction(as far as we know)",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjrcdnoy3340",
+                                    "created": 1651704498925,
+                                    "text": "How should we model temporal differences",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjrce6j0cio0",
+                            "created": 1651704539925,
+                            "text": "Risk",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjrce9mcboo0",
+                                    "created": 1651704546657,
+                                    "text": "Under perfect certainty,finance theory is complete",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjrcemgwybc0",
+                                    "created": 1651704574627,
+                                    "text": "Risk creates significant challenges",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjrcevaq1nk0",
+                                    "created": 1651704593844,
+                                    "text": "How should we model the unknown?",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjrcf77vbts0",
+                            "created": 1651704619793,
+                            "text": "To address these two issues:",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjrcfgicmjk0",
+                                    "created": 1651704640017,
+                                    "text": "Use historical data",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjrcfkg97hk0",
+                                    "created": 1651704648598,
+                                    "text": "Use mathematics(probability and statistics",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjrcfvko8lk0",
+                                    "created": 1651704672810,
+                                    "text": "Chanllenges can easily overwhelm current mathematical abilities",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cjou38mbwjc0",
+                    "created": 1651449782582,
+                    "text": "six principles of finance",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjrcgkerwiw0",
+                            "created": 1651704726873,
+                            "text": "P1:There is No Such Thing As A Free Lunch",
+                            "expandState": "expand"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjrchfi2lxc0",
+                            "created": 1651704794552,
+                            "text": "P2:Other Things Equal,Individuals:",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjrchukosrc0",
+                                    "created": 1651704827362,
+                                    "text": "Prefer more money to less(non-satiation)",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjrcx6ja3yw0",
+                                    "created": 1651706028861,
+                                    "text": "Prefer money now to later(impatience)",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjrcxkkjrxs0",
+                                    "created": 1651706059412,
+                                    "text": "Prefer to avoid risk(risk aversion)",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjrcxx6lwmo0",
+                                    "created": 1651706086868,
+                                    "text": "topic",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjrcy112vrk0",
+                            "created": 1651706095241,
+                            "text": "P3:All Agents Act To further Their own Self-Interest",
+                            "expandState": "expand"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjrcyn8pcww0",
+                            "created": 1651706143591,
+                            "text": "P4：Financial Market Prices Shift to Equalize Supply and demand",
+                            "expandState": "expand"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjrcz2bpl600",
+                            "created": 1651706176424,
+                            "text": "P5:Financial Markets Are Highly Adaptive and Competitive",
+                            "expandState": "expand"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjrczf55l0o0",
+                            "created": 1651706204326,
+                            "text": "P6:Risk-Sharing and Frictions Are Central to Financial Innovation",
+                            "expandState": "expand"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cjou4ekis2o0",
+                    "created": 1651449873898,
+                    "text": "course overview",
+                    "expandState": "expand"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cjou4fjduko0",
+                    "created": 1651449876006,
+                    "text": "how to get the most Out of this course",
+                    "expandState": "expand"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cjou35fbp940",
+                    "created": 1651449775628,
+                    "text": "fundamental chanllenges of finance",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjppw85gkvk0",
+                            "created": 1651539508530,
+                            "text": "all business activies reduce to two  functions",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjppz109ilk0",
+                                    "created": 1651539728071,
+                                    "text": "valuation of assets",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjppzcnie740",
+                                    "created": 1651539753421,
+                                    "text": "management of assets",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjpq0ejl8kw0",
+                            "created": 1651539835902,
+                            "text": "business decision involve valation and management",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjpq16c1alc0",
+                                    "created": 1651539896395,
+                                    "text": "you cannont manage what you cannot measure ",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjpq1setygw0",
+                                    "created": 1651539944453,
+                                    "text": "valuation is the start point for management ",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjpq3pjm5wo0",
+                                    "created": 1651540094940,
+                                    "text": "once value is established,management is easier. Objectives + Valuations ->Decisions",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjpq4j5b1200",
+                                    "created": 1651540159379,
+                                    "text": "Valuation is generally indepedndent of objectives",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjpq53pu7a00",
+                                    "created": 1651540204156,
+                                    "text": "Role of financial markets and the price discovery process",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjpq68q4vmo0",
+                            "created": 1651540293422,
+                            "text": "Valuation",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjpq6estc5s0",
+                                    "created": 1651540306644,
+                                    "text": "How are financial assets valued",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjpq7ah809s0",
+                                    "created": 1651540375601,
+                                    "text": "How should financial assets be valued",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjpq7mpsqhc0",
+                                    "created": 1651540402240,
+                                    "text": "How do financial markets determine asset values",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjpq80rlv7c0",
+                                    "created": 1651540432825,
+                                    "text": "How well do financial markets work",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjpq8arqgaw0",
+                            "created": 1651540454600,
+                            "text": "Management",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjpq92xxvr40",
+                                    "created": 1651540515926,
+                                    "text": "how much should I save/spend",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjpq9fsxpio0",
+                                    "created": 1651540543921,
+                                    "text": "what should I buy/sell",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjpq9q8ptlk0",
+                                    "created": 1651540566643,
+                                    "text": "when should I buy/sell",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjpq9xhewk80",
+                                    "created": 1651540582406,
+                                    "text": "How should I finance the transaction",
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "classic",
+    "version": "1.4.43"
+}
