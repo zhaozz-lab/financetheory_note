@@ -70,6 +70,14 @@
                             "text": "from a bussiness Perspective,an asset is a sequence of cashflows"
                         },
                         "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjtnayw2oo00",
+                            "created": 1651938440331,
+                            "text": "Valuing An asset Requires Valuing A Sequence of Cashflows"
+                        },
+                        "children": []
                     }
                 ]
             },
@@ -79,7 +87,91 @@
                     "created": 1651878524203,
                     "text": "the present value operator"
                 },
-                "children": []
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjtnbpnbdc80",
+                            "created": 1651938498574,
+                            "text": "What is Vt"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjtnbu69ae80",
+                                    "created": 1651938508427,
+                                    "text": "what factors are involved in determining the value of any object"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cjtnd3s35pk0",
+                                            "created": 1651938607702,
+                                            "text": "--subjective"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cjtnd7bd5600",
+                                            "created": 1651938615398,
+                                            "text": "--objective"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cjtndcdhw2o0",
+                                    "created": 1651938626411,
+                                    "text": "How is value determined"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjtndoxv5sg0",
+                            "created": 1651938653764,
+                            "text": "There Are two Distinct Cases"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjtndw4hx540",
+                                    "created": 1651938669402,
+                                    "text": "No uncertainty  --we have a complete solution"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjtne9jqjhc0",
+                                    "created": 1651938698622,
+                                    "text": "uncertainty  we have a partial solution(approximation)  the reason:synergines and other interaction effects"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjtnf3srb280",
+                                    "created": 1651938764471,
+                                    "text": "Value is determined the same way,but we want to understand how"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjtnfpcwmhc0",
+                            "created": 1651938811402,
+                            "text": "Cashflows At Different Dates Are Different \"Currencies\""
+                        },
+                        "children": []
+                    }
+                ]
             },
             {
                 "data": {
@@ -87,7 +179,91 @@
                     "created": 1651878723319,
                     "text": "The time value of money"
                 },
-                "children": []
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjtngoh6es00",
+                            "created": 1651938887847,
+                            "text": "Implicit Assumptions/Requirements For NPV Calculations"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjtnh3damhs0",
+                                    "created": 1651938920264,
+                                    "text": "Cashflows are known(magnitudes,signs,timing)"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjtnhdsx6mo0",
+                                    "created": 1651938942977,
+                                    "text": "Exchanges rates are known"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjtnhjffja00",
+                                    "created": 1651938955222,
+                                    "text": "no frictions in currency conversions"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjtnhr51jl40",
+                            "created": 1651938972008,
+                            "text": "Do These Assumptions Hold in Practice"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjtni39mtow0",
+                                    "created": 1651938998407,
+                                    "text": "Which assumptions are most often violated"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjtnib6muns0",
+                                    "created": 1651939015640,
+                                    "text": "Which assumptions are most Plausible"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjtniotl7pc0",
+                            "created": 1651939045326,
+                            "text": "Until lecture12 ,we will Take These Assumptions as truth"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjtnizzm94o0",
+                                    "created": 1651939069635,
+                                    "text": "focus now on exchange rates"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjtnj8cgj340",
+                                    "created": 1651939087826,
+                                    "text": "where do they come from,how are the determined"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "data": {
