@@ -269,9 +269,72 @@
                 "data": {
                     "id": "cjt251dxqj40",
                     "created": 1651878732271,
-                    "text": "Special Cashflows:the perpetuity"
+                    "text": "Special Cashflows:the perpetuity",
+                    "layout_mind_offset": {
+                        "x": 33.99999925494194,
+                        "y": 28
+                    }
                 },
-                "children": []
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjtx5mrkte80",
+                            "created": 1651966233216,
+                            "text": "Perpetuity pays constant cashflow C forever"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjtx66h4jvs0",
+                                    "created": 1651966276119,
+                                    "text": "How much is an infinite cashflow of C each year worth？"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjtx6o1z9ts0",
+                                    "created": 1651966314386,
+                                    "text": "How can we value it"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjtx7m5dsxk0",
+                                    "created": 1651966388602,
+                                    "text": "PV = C/r"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjtx8l6aelc0",
+                            "created": 1651966464844,
+                            "text": "Growing Perpetuity Pays Growing Cashflow C(1+g)的t次方 forever"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjtx9oris1c0",
+                                    "created": 1651966551023,
+                                    "text": "How much is an infinite growing cashflow of C each year worth？"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjtxa6cjbvk0",
+                                    "created": 1651966589299,
+                                    "text": "How can we value it PV = C/(r-g),r>g"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "data": {
@@ -279,7 +342,33 @@
                     "created": 1651878757220,
                     "text": "Special Cashflows:the annuity"
                 },
-                "children": []
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjtxb8whqag0",
+                            "created": 1651966673223,
+                            "text": "Annuity Pays Constant Cashflow C For T periods"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjtxewni0gw0",
+                                    "created": 1651966960015,
+                                    "text": "Simple application of V0 PV = C/r -C/r/(1+1)T"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjtxg3p87iw0",
+                                    "created": 1651967053721,
+                                    "text": "Sometimes written as a product"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "data": {
@@ -287,7 +376,82 @@
                     "created": 1651878777666,
                     "text": "compounding"
                 },
-                "children": []
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjtxgwz5duo0",
+                            "created": 1651967117447,
+                            "text": "Interest May Be Credited/Charged More Often Than Annually"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjtxhfkvwq00",
+                                    "created": 1651967157944,
+                                    "text": "Bank accounts:daily"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjtxhl0ebnc0",
+                                    "created": 1651967169766,
+                                    "text": "Mortgages and leases:mothly"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjtxhtbjxdk0",
+                                    "created": 1651967187854,
+                                    "text": "Bounds:semiannually"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjtxhyks9rc0",
+                                    "created": 1651967199296,
+                                    "text": "Effective annual rate may differ frome annual percentage rate"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjtxiq45l680",
+                            "created": 1651967259241,
+                            "text": "Typical Compounding Conventions"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjtxj207m6w0",
+                                    "created": 1651967285124,
+                                    "text": "Let r denote APR，n periods of compounding"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjtxjkigkt40",
+                                    "created": 1651967325409,
+                                    "text": "r/n is per-period rate for each period"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjtxjubcq740",
+                                    "created": 1651967346747,
+                                    "text": "effective annual rate(EAR)"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "data": {
@@ -295,7 +459,107 @@
                     "created": 1651878789544,
                     "text": "Inflation"
                 },
-                "children": []
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjtyxp1woa00",
+                            "created": 1651971253500,
+                            "text": "What is Inflation"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjtyxuae2fk0",
+                                    "created": 1651971264897,
+                                    "text": "Change in real purchasing power of $1 over time"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjtyy687urc0",
+                                    "created": 1651971290887,
+                                    "text": "Different from time-value of money(how?)"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjtyyg6p3600",
+                                    "created": 1651971312563,
+                                    "text": "For some countries,inflation is extremely problematic"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjtyywpd3ag0",
+                                    "created": 1651971348520,
+                                    "text": "How to quantifiy its effects"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjtzdcfqan40",
+                            "created": 1651972479865,
+                            "text": "For NPV Calculations,Treat Inflaction Consistently"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjtzdw759qg0",
+                                    "created": 1651972522881,
+                                    "text": "Discount real cashflows using real interest rates"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjtzeank6zc0",
+                                    "created": 1651972554349,
+                                    "text": "Discount nominal cashflows using nominal interest rates"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cjtzet2ncfc0",
+                                            "created": 1651972594443,
+                                            "text": "--Nominal cashflows=>expressed in actual-dollar cashflows"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cjtzfbiqrug0",
+                                            "created": 1651972634598,
+                                            "text": "--Real cashflows =>expressed in constant purchasing power"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cjtzg06xlbc0",
+                                            "created": 1651972688304,
+                                            "text": "Nominal rate =>actual prevailing interest rate"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cjtzgen0ey80",
+                                            "created": 1651972719751,
+                                            "text": "Real rate =>interest rate adjusted for inflation"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "data": {
@@ -304,6 +568,111 @@
                     "text": "Extensions and Qualifications"
                 },
                 "children": []
+            },
+            {
+                "data": {
+                    "id": "cjtzi0twduw0",
+                    "created": 1651972846421,
+                    "text": "key Points"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjtzi6e9mko0",
+                            "created": 1651972858536,
+                            "text": "Assets are sequences of cashflows"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjtzigrvyq00",
+                            "created": 1651972881128,
+                            "text": "Date-t cashflows are different from date-(t+k) cashflows"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjtziv4vqj40",
+                            "created": 1651972912388,
+                            "text": "Use “exchange rates”to convert one type of cashflow into another"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjtzjjvv0xk0",
+                            "created": 1651972966263,
+                            "text": "PV and FV related by \"exchange rates\""
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjtzjz0bnm80",
+                            "created": 1651972999184,
+                            "text": "Exchange rates are determined by supply/demand"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjtzk6s9kbk0",
+                            "created": 1651973016111,
+                            "text": "Opportunity cost of capital:expected return on equivalent investments in financial  markets"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjtzksidmv40",
+                            "created": 1651973063403,
+                            "text": "For NPV calculations,visualize cashflows first"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjtzl272c800",
+                            "created": 1651973084486,
+                            "text": "Decision rule:accept postive NPV projects,reject negative ones"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjtzlddigr40",
+                            "created": 1651973108821,
+                            "text": "Special cashflows:perpetuities and annuities"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjtzlo2pweg0",
+                            "created": 1651973132113,
+                            "text": "compounding"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjtzlqznzxc0",
+                            "created": 1651973138458,
+                            "text": "inflation"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjtzlth3sbc0",
+                            "created": 1651973143866,
+                            "text": "extensions and Qualifications"
+                        },
+                        "children": []
+                    }
+                ]
             }
         ]
     },

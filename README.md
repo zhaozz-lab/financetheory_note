@@ -1,1 +1,2 @@
 # financetheory_note
+计划学习一些经济金融方面的知识，更好地认知世界
