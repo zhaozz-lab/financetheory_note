@@ -1,0 +1,306 @@
+{
+    "root": {
+        "data": {
+            "id": "cju3i5nll7k0",
+            "created": 1651984141364,
+            "text": "fixed-income Securities"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cju3ioosckw0",
+                    "created": 1651984182794,
+                    "text": "Industry Overview"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cju3it29n280",
+                    "created": 1651984192316,
+                    "text": "valuation"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjuvllyx9gw0",
+                            "created": 1652063403047,
+                            "text": "components of Valuation"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjuvlyqw7xc0",
+                                    "created": 1652063430859,
+                                    "text": "Time value of principal and coupons"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjuvm6l0oxs0",
+                                    "created": 1652063447918,
+                                    "text": "Risk"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cjuvm9q25js0",
+                                            "created": 1652063454753,
+                                            "text": "Inflation"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cjuvmedh30w0",
+                                            "created": 1652063464876,
+                                            "text": "Credit"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cjuvmhkq5w00",
+                                            "created": 1652063471845,
+                                            "text": "Timing(callability)"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cjuvmn33haw0",
+                                            "created": 1652063483840,
+                                            "text": "Liquidity"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cjuvmr2v2ug0",
+                                            "created": 1652063492533,
+                                            "text": "Currency"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjuvpcjqm940",
+                            "created": 1652063695994,
+                            "text": "For Now,Consider Riskless Debt Only"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjuvpldb6yw0",
+                                    "created": 1652063715196,
+                                    "text": "U.S. government debt (is it truly riskless)"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjuvpz555lk0",
+                            "created": 1652063745178,
+                            "text": "Consider risky debt later"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cju3ix1asmw0",
+                    "created": 1651984200965,
+                    "text": "valuation of discount Bonds"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjuvqfqfyu00",
+                            "created": 1652063781294,
+                            "text": "Pure Discont Bond"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjuvqkw458g0",
+                                    "created": 1652063792521,
+                                    "text": "No coupons,single payment of principal at maturity"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjuvth8040o0",
+                                    "created": 1652064019625,
+                                    "text": "Bond trades at a \"discount\" to face value"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjuvtrnof1c0",
+                                    "created": 1652064042341,
+                                    "text": "Also known as zero-coupon bonds or STRIPS*"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjuvu2mx5wg0",
+                                    "created": 1652064066240,
+                                    "text": "Valuation is straightforward application of NPV"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjuvulq6fa80",
+                                    "created": 1652064107795,
+                                    "text": "Note:(P0,r,F) is \"over-determined\";given two,the third is determined"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjuvyf0uvs00",
+                            "created": 1652064406660,
+                            "text": "Now what If r Varies over Time"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjuvyrbksc00",
+                                    "created": 1652064433430,
+                                    "text": "Different interest rates from one year to the next"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cju3j6v1l480",
+                    "created": 1651984222355,
+                    "text": "Valuation of coupon Bonds"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjvaqasneu80",
+                            "created": 1652106087192,
+                            "text": "intermediate payments in addition to final principal payment"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjvaqkwprt40",
+                            "created": 1652106109206,
+                            "text": "Coupon bonds can be trade at discounts or premiums to face value"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjvar01ks6w0",
+                            "created": 1652106142152,
+                            "text": "Valuation is straightforward application of NPV"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cju3je5o1gg0",
+                    "created": 1651984238234,
+                    "text": "Measures of Interest-Rate Risk"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjvata7ophc0",
+                            "created": 1652106321017,
+                            "text": "Bonds Subject To Interest-Rate Risk"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjvatkdr2h40",
+                                    "created": 1652106343152,
+                                    "text": "As interest rates change,bond prices also change"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjvatsjsc2w0",
+                                    "created": 1652106360931,
+                                    "text": "Sensitivity of price to changes in yield measures risk"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cju3jopkago0",
+                    "created": 1651984261205,
+                    "text": "Corporate Bonds and Default Risk"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjvav7ivflc0",
+                            "created": 1652106471891,
+                            "text": "Non-Governments Bonds Carry Default Risk"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjvavlh0meo0",
+                                    "created": 1652106502254,
+                                    "text": "A default is when a debt issuer fails to make a promised payment(interest or principal)"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjvavzdah9c0",
+                                    "created": 1652106532504,
+                                    "text": "Credit ratings by rating agencies provide indications of the likelihood of default by each issuer"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cju3k0oj8ps0",
+                    "created": 1651984287264,
+                    "text": "The Sub-Prime crisis"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
